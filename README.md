@@ -6,3 +6,4 @@
 3. [sdp-library](https://github.com/Alex-exy/srh-sdp) - A library management system implemented using Swing
 4. [gemini-test](https://github.com/pkunray/gemini-test) - A simple project showcasing how to integerate with Google Cloud Vertex AI API, implemented in Vue.js and Node.js
 5. [airplane-tracker heatmap](https://github.com/stickrundude/airplane-tracker/tree/usecase-heatmap) - A heatmap developed based on Open Sky aviation data and Google Map, with React.js as the front end.
+6. IT-security Research: ForcedEntry
